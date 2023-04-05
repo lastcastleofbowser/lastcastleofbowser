@@ -10,21 +10,21 @@ If you don't find me at my computer, you'll probably find me playing with my cat
 
 I'm currently learning:
 
-🌱 Javascript
-🌱 CSS
-🌱 HTML
+🌿 Javascript
+🌿 CSS
+🌿 HTML
+🌱 Jest 
+🌱 Playwright
 
 
 🤟
-
-<img src = "https://user-images.githubusercontent.com/123087687/230131452-03351879-78d1-48cd-8086-dec045623bd5.png" width="100" height="100">
-<img src = "https://user-images.githubusercontent.com/123087687/230131156-f47258e5-a301-4b75-8741-228628028493.png" width="100" height="100">
-<img src = "https://user-images.githubusercontent.com/123087687/230131671-46602ef8-d0f0-436b-a95c-797708909281.png" width="100" height="100">
-
-
-<img src = "https://user-images.githubusercontent.com/123087687/230130110-c1fbd578-7bb3-4b86-a979-908a9c762cb2.png" width="100" height="100">
-<img src = "https://user-images.githubusercontent.com/123087687/230130352-f1a5df84-8e5c-4f90-83d2-012400fd777b.png" width="100" height="100">
-
+<div align = "center">
+<img src = "https://user-images.githubusercontent.com/123087687/230131452-03351879-78d1-48cd-8086-dec045623bd5.png" width="100" height="100"><!--HTML-->
+<img src = "https://user-images.githubusercontent.com/123087687/230131156-f47258e5-a301-4b75-8741-228628028493.png" width="100" height="100"> <!--CSS-->
+<img src = "https://user-images.githubusercontent.com/123087687/230131671-46602ef8-d0f0-436b-a95c-797708909281.png" width="100" height="100"><!--JS-->
+<img src = "https://user-images.githubusercontent.com/123087687/230130110-c1fbd578-7bb3-4b86-a979-908a9c762cb2.png" width="100" height="100"><!--Jest-->
+<img src = "https://user-images.githubusercontent.com/123087687/230130352-f1a5df84-8e5c-4f90-83d2-012400fd777b.png" width="100" height="100"> <!--Playwright-->
+  </div>
 
 <!--
 **lastcastleofbowser/lastcastleofbowser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
