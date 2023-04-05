@@ -17,7 +17,7 @@ I'm currently learning:
 
 🤟
 
-![image](https://user-images.githubusercontent.com/123087687/230129275-fd9bcbcd-210e-4cb7-ba1c-15e38c7cd646.png)
+<img src = "https://user-images.githubusercontent.com/123087687/230129275-fd9bcbcd-210e-4cb7-ba1c-15e38c7cd646.png" width ="100" height"100">
 
 
 <!--
