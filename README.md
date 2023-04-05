@@ -17,6 +17,8 @@ I'm currently learning:
 
 🤟
 
+![image](https://user-images.githubusercontent.com/123087687/230129275-fd9bcbcd-210e-4cb7-ba1c-15e38c7cd646.png)
+
 
 <!--
 **lastcastleofbowser/lastcastleofbowser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
