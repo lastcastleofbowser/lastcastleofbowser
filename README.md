@@ -22,14 +22,14 @@ I'm currently learning:
 ## Languages & Software
 
 <div align = "center">
-<img src = "https://user-images.githubusercontent.com/123087687/230131452-03351879-78d1-48cd-8086-dec045623bd5.png" width="100" height="100"><!--HTML-->
-<img src = "https://user-images.githubusercontent.com/123087687/230131156-f47258e5-a301-4b75-8741-228628028493.png" width="100" height="100"> <!--CSS-->
-<img src = "https://user-images.githubusercontent.com/123087687/230131671-46602ef8-d0f0-436b-a95c-797708909281.png" width="100" height="100"><!--JS-->
-<img src = "https://user-images.githubusercontent.com/123087687/230130110-c1fbd578-7bb3-4b86-a979-908a9c762cb2.png" width="100" height="100"><!--Jest-->
-<img src = "https://user-images.githubusercontent.com/123087687/230130352-f1a5df84-8e5c-4f90-83d2-012400fd777b.png" width="100" height="100"> <!--Playwright-->
- <img src = "https://user-images.githubusercontent.com/123087687/230385207-fb55b675-5978-4a60-aa6d-29ab0d69f3db.png" width="150" height="100"> <!--Figma--> 
-  <img src = "https://user-images.githubusercontent.com/123087687/230386768-3c992ef3-2b49-4e58-99e1-daa9dad076d3.png" width="100" height="100"> <!--Node JS -->
- <img src = "https://user-images.githubusercontent.com/123087687/230385932-a0e1a648-300d-4582-ad3c-253873a39990.png" width="100" height="100"> <!--Slack-->
+<img src = "https://user-images.githubusercontent.com/123087687/230131452-03351879-78d1-48cd-8086-dec045623bd5.png" width="50" height="50"><!--HTML-->
+<img src = "https://user-images.githubusercontent.com/123087687/230131156-f47258e5-a301-4b75-8741-228628028493.png" width="50" height="50"> <!--CSS-->
+<img src = "https://user-images.githubusercontent.com/123087687/230131671-46602ef8-d0f0-436b-a95c-797708909281.png" width="50" height="50"><!--JS-->
+<img src = "https://user-images.githubusercontent.com/123087687/230130110-c1fbd578-7bb3-4b86-a979-908a9c762cb2.png" width="50" height="50"><!--Jest-->
+<img src = "https://user-images.githubusercontent.com/123087687/230130352-f1a5df84-8e5c-4f90-83d2-012400fd777b.png" width="50" height="50"> <!--Playwright-->
+ <img src = "https://user-images.githubusercontent.com/123087687/230385207-fb55b675-5978-4a60-aa6d-29ab0d69f3db.png" width="75" height="50"> <!--Figma--> 
+  <img src = "https://user-images.githubusercontent.com/123087687/230386768-3c992ef3-2b49-4e58-99e1-daa9dad076d3.png" width="50" height="50"> <!--Node JS -->
+ <img src = "https://user-images.githubusercontent.com/123087687/230385932-a0e1a648-300d-4582-ad3c-253873a39990.png" width="50" height="50"> <!--Slack-->
   </div>
 
 <!--
