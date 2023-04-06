@@ -1,4 +1,4 @@
-Hi there, I'm Christian... 👋
+## Hi there, I'm Christian... 👋
 
 <img src="https://user-images.githubusercontent.com/123087687/221354891-28eb9411-16df-453f-8c34-a80b7b90ba49.jpeg" width="271" height="310">
 
@@ -18,6 +18,9 @@ I'm currently learning:
 
 
 🤟
+
+## Languages & Software
+
 <div align = "center">
 <img src = "https://user-images.githubusercontent.com/123087687/230131452-03351879-78d1-48cd-8086-dec045623bd5.png" width="100" height="100"><!--HTML-->
 <img src = "https://user-images.githubusercontent.com/123087687/230131156-f47258e5-a301-4b75-8741-228628028493.png" width="100" height="100"> <!--CSS-->
