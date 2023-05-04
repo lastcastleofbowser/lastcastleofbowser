@@ -2,7 +2,7 @@
 
 ![](https://github.com/lastcastleofbowser/lastcastleofbowser/blob/main/cw_banner.gif)
 
-
+##
 <!-- <img src="https://user-images.githubusercontent.com/123087687/221354891-28eb9411-16df-453f-8c34-a80b7b90ba49.jpeg" width="271" height="310"> -->
 
 I'm training to be a software engineer with the [School of Code](https://www.schoolofcode.co.uk); a collaborative coding bootcamp aimed at fullstack development.
