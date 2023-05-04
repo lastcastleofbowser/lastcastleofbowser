@@ -41,6 +41,7 @@ I'm currently learning:
  <tr>
 <td align=top><img src = "https://github-readme-stats.vercel.app/api/?username=lastcastleofbowser&count_private=true&theme=tokyonight&showicons=true"></td>
 <td align=top><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lastcastleofbowser&langs_count=5&theme=tokyonight"></td>
+ <td align=top><img src ="https://www.codewars.com/users/lastcastleofbowser/badges/large"></td>
 </tr>
 </table>
 
