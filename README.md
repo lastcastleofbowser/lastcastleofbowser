@@ -1,4 +1,4 @@
-## Hi there, I'm Christian... 👋
+## Hi there, I'm Christian... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <img src="https://user-images.githubusercontent.com/123087687/221354891-28eb9411-16df-453f-8c34-a80b7b90ba49.jpeg" width="271" height="310">
 
@@ -44,6 +44,9 @@ I'm currently learning:
  <td align=top><img src ="https://www.codewars.com/users/lastcastleofbowser/badges/large"></td>
 </tr>
 </table>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lastcastleofboswer.lastcastleofbowser)
+
 
 <!--
 **lastcastleofbowser/lastcastleofbowser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
