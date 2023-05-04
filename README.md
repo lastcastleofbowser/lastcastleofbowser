@@ -10,10 +10,10 @@ If you don't find me at my computer, you'll probably find me playing with my cat
 
 I'm currently learning:
 
-🌿 Javascript
+🪴 Javascript
 🌿 CSS
 🌿 HTML
-🌱 React 
+🌿 React 
 🌱 Jest 
 🌱 Playwright
 
