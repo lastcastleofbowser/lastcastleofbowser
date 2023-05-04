@@ -1,6 +1,9 @@
 ## Hi there, I'm Christian... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<img src="https://user-images.githubusercontent.com/123087687/221354891-28eb9411-16df-453f-8c34-a80b7b90ba49.jpeg" width="271" height="310">
+![](https://github.com/lastcastleofbowser/lastcastleofbowser/blob/main/cw_banner.gif)
+
+
+<!-- <img src="https://user-images.githubusercontent.com/123087687/221354891-28eb9411-16df-453f-8c34-a80b7b90ba49.jpeg" width="271" height="310"> -->
 
 I'm training to be a software engineer with the [School of Code](https://www.schoolofcode.co.uk); a collaborative coding bootcamp aimed at fullstack development.
 
@@ -11,7 +14,7 @@ If you don't find me at my computer, you'll probably find me playing with my cat
 I'm currently learning:
 
 🪴 Javascript
-🌿 CSS
+🪴 CSS
 🌿 HTML
 🌿 React 
 🌱 Jest 
