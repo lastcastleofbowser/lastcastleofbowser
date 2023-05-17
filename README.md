@@ -35,7 +35,8 @@ I'm currently learning:
   <img src = "https://user-images.githubusercontent.com/123087687/230386768-3c992ef3-2b49-4e58-99e1-daa9dad076d3.png" width="50" height="50"> <!--Node JS -->
  <img src = "https://user-images.githubusercontent.com/123087687/230385932-a0e1a648-300d-4582-ad3c-253873a39990.png" width="50" height="50"> <!--Slack-->
     <img src = "https://user-images.githubusercontent.com/123087687/231821468-8a33c894-7b76-4409-8241-6fe1c887e31f.png" width="50" height="50"> <!--React-->
- 
+ <img src = "https://github.com/lastcastleofbowser/lastcastleofbowser/assets/123087687/48591c73-963d-46e3-a9cc-1d97487c7d3b" width="50" height="50"> <!--SQL-->
+
 </div>
 
 ## My Stats
