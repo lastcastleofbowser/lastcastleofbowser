@@ -15,9 +15,11 @@ I'm currently learning:
 
 <div align = "center">
  🌾 Javascript || 🪴 CSS || 🌿 HTML || 🌿 React || 🌱 ExpressJS || 🌱 SQL Databases || 🌱 Jest || 🌱 Playwright
+ 
+<br>
+🤟
 </div>
 
-🤟
 
 ## Languages & Software
 
