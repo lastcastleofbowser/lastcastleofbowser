@@ -34,6 +34,10 @@ I'm currently learning:
  <img src = "https://user-images.githubusercontent.com/123087687/230385932-a0e1a648-300d-4582-ad3c-253873a39990.png" width="50" height="50"> <!--Slack-->
     <img src = "https://user-images.githubusercontent.com/123087687/231821468-8a33c894-7b76-4409-8241-6fe1c887e31f.png" width="50" height="50"> <!--React-->
  <img src = "https://github.com/lastcastleofbowser/lastcastleofbowser/assets/123087687/48591c73-963d-46e3-a9cc-1d97487c7d3b" width="90" height="50"> <!--SQL-->
+ <br>
+<img src = "https://github.com/lastcastleofbowser/lastcastleofbowser/assets/123087687/f6bd5938-843d-4d54-bcf8-e38547a3b49a" width="100" height="80"> <!--ExpressJS-->
+
+
 
 </div>
 
