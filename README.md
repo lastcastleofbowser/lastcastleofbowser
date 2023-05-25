@@ -14,7 +14,7 @@ If you don't find me at my computer, you'll probably find me playing with my cat
 I'm currently learning:
 
 <div align = "center">
- 🌾 Javascript || 🪴 CSS || 🌿 HTML || 🌿 React || 🌱 ExpressJS || 🌱 SQL Databases || 🌱 Jest || 🌱 Playwright
+ 🌾 JavaScript || 🪴 CSS || 🪴 HTML || 🌿 React || 🌱 TypeScript || 🌱 ExpressJS || 🌱 SQL Databases || 🌱 Jest || 🌱 Playwright
  
 <br>
 🤟
