@@ -14,7 +14,7 @@ If you don't find me at my computer, you'll probably find me playing with my cat
 I'm currently learning:
 
 <div align = "center">
- 🪷 JavaScript || 🪴 CSS || 🪴 HTML || 🌷 React || 🌱 TypeScript || 🌱 ExpressJS || 🌿 SQL Databases || 🌿 Jest || 🌿 Playwright
+ 🪷 JavaScript || 🌷 CSS || 🪴 HTML || 🌷 React || 🪴 TypeScript || 🌱 ExpressJS || 🌿 SQL Databases || 🌿 Jest || 🌿 Playwright
  
 <br>
 🤟
@@ -27,6 +27,8 @@ I'm currently learning:
 <img src = "https://user-images.githubusercontent.com/123087687/230131452-03351879-78d1-48cd-8086-dec045623bd5.png" width="50" height="50"><!--HTML-->
 <img src = "https://user-images.githubusercontent.com/123087687/230131156-f47258e5-a301-4b75-8741-228628028493.png" width="50" height="50"> <!--CSS-->
 <img src = "https://user-images.githubusercontent.com/123087687/230131671-46602ef8-d0f0-436b-a95c-797708909281.png" width="50" height="50"><!--JS-->
+ <img src = "https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" width="50" height="50"><!--TS-->
+
 <img src = "https://user-images.githubusercontent.com/123087687/230130110-c1fbd578-7bb3-4b86-a979-908a9c762cb2.png" width="50" height="50"><!--Jest-->
 <img src = "https://user-images.githubusercontent.com/123087687/230130352-f1a5df84-8e5c-4f90-83d2-012400fd777b.png" width="50" height="50"> <!--Playwright-->
  <img src = "https://user-images.githubusercontent.com/123087687/230385207-fb55b675-5978-4a60-aa6d-29ab0d69f3db.png" width="75" height="50"> <!--Figma--> 
