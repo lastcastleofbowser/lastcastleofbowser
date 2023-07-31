@@ -33,11 +33,12 @@ I'm currently learning:
 <img src = "https://user-images.githubusercontent.com/123087687/230130352-f1a5df84-8e5c-4f90-83d2-012400fd777b.png" width="50" height="50"> <!--Playwright-->
  <img src = "https://user-images.githubusercontent.com/123087687/230385207-fb55b675-5978-4a60-aa6d-29ab0d69f3db.png" width="75" height="50"> <!--Figma--> 
   <img src = "https://user-images.githubusercontent.com/123087687/230386768-3c992ef3-2b49-4e58-99e1-daa9dad076d3.png" width="50" height="50"> <!--Node JS -->
- <img src = "https://user-images.githubusercontent.com/123087687/230385932-a0e1a648-300d-4582-ad3c-253873a39990.png" width="50" height="50"> <!--Slack-->
     <img src = "https://user-images.githubusercontent.com/123087687/231821468-8a33c894-7b76-4409-8241-6fe1c887e31f.png" width="50" height="50"> <!--React-->
- <img src = "https://github.com/lastcastleofbowser/lastcastleofbowser/assets/123087687/48591c73-963d-46e3-a9cc-1d97487c7d3b" width="90" height="50"> <!--SQL-->
+ <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="50" height="50"> <!--SQL-->
  <br>
-<img src = "https://github.com/lastcastleofbowser/lastcastleofbowser/assets/123087687/f6bd5938-843d-4d54-bcf8-e38547a3b49a" width="100" height="80"> <!--ExpressJS-->
+<img src = "https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" width="50" height="50"> <!--ExpressJS-->
+ <img src = "https://user-images.githubusercontent.com/123087687/230385932-a0e1a648-300d-4582-ad3c-253873a39990.png" width="50" height="50"> <!--Slack-->
+  <img src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50"> <!--Git-->
 
 
 
