@@ -1,41 +1,40 @@
 ## Hi there, I'm Christian... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-![](https://github.com/lastcastleofbowser/lastcastleofbowser/blob/main/cw_banner.gif)
+👨🏾‍💻 A Junior Software Developer and former primary school teacher, who taught in the UK and abroad 
 
-##
-<!-- <img src="https://user-images.githubusercontent.com/123087687/221354891-28eb9411-16df-453f-8c34-a80b7b90ba49.jpeg" width="271" height="310"> -->
+👨🏾‍🎓 A graduate from The School of Code's full-stack web development course
 
-I'm training to be a software engineer with the [School of Code](https://www.schoolofcode.co.uk); a collaborative coding bootcamp aimed at fullstack development.
+👀 Check out my pinned projects to see what I have been working on below 👇🏽 👇🏽
 
-I am making the leap into tech after eight years as a primary school teacher, teaching all classes and abilities in the UK and abroad. I am passionate about using code to benefit others -— you can follow my journey here or you can reach out to me on [LinkedIn](https://www.linkedin.com/in/christianwillcox/).
-
-If you don't find me at my computer, you'll probably find me playing with my cats or exploring the great outdoors 🏕️.
-
-I'm currently learning:
-
-<div align = "center">
- 🪷 JavaScript || 🌷 CSS || 🪴 HTML || 🌷 React || 🪴 TypeScript || 🌱 ExpressJS || 🌿 SQL Databases || 🌿 Jest || 🌿 Playwright
- 
 <br>
-🤟
-</div>
 
+## Links
+
+View my website here  👉👉
+[🖥️](https://christianwillcox.netlify.app/)
+
+Follow my journey here 👉👉
+ <a href="https://www.linkedin.com/in/christianwillcox/">
+  <img align="center" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+</a>
+
+
+<br>
 
 ## Languages & Software
+<br>
 
 <div align = "center">
 <img src = "https://user-images.githubusercontent.com/123087687/230131452-03351879-78d1-48cd-8086-dec045623bd5.png" width="50" height="50"><!--HTML-->
 <img src = "https://user-images.githubusercontent.com/123087687/230131156-f47258e5-a301-4b75-8741-228628028493.png" width="50" height="50"> <!--CSS-->
 <img src = "https://user-images.githubusercontent.com/123087687/230131671-46602ef8-d0f0-436b-a95c-797708909281.png" width="50" height="50"><!--JS-->
- <img src = "https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" width="50" height="50"><!--TS-->
-
+<img src = "https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" width="50" height="50"><!--TS-->
 <img src = "https://user-images.githubusercontent.com/123087687/230130110-c1fbd578-7bb3-4b86-a979-908a9c762cb2.png" width="50" height="50"><!--Jest-->
 <img src = "https://user-images.githubusercontent.com/123087687/230130352-f1a5df84-8e5c-4f90-83d2-012400fd777b.png" width="50" height="50"> <!--Playwright-->
  <img src = "https://user-images.githubusercontent.com/123087687/230385207-fb55b675-5978-4a60-aa6d-29ab0d69f3db.png" width="75" height="50"> <!--Figma--> 
   <img src = "https://user-images.githubusercontent.com/123087687/230386768-3c992ef3-2b49-4e58-99e1-daa9dad076d3.png" width="50" height="50"> <!--Node JS -->
     <img src = "https://user-images.githubusercontent.com/123087687/231821468-8a33c894-7b76-4409-8241-6fe1c887e31f.png" width="50" height="50"> <!--React-->
  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="50" height="50"> <!--SQL-->
- <br>
 <img src = "https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" width="50" height="50"> <!--ExpressJS-->
  <img src = "https://user-images.githubusercontent.com/123087687/230385932-a0e1a648-300d-4582-ad3c-253873a39990.png" width="50" height="50"> <!--Slack-->
   <img src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50"> <!--Git-->
