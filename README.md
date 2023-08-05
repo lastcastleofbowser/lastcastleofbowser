@@ -4,8 +4,9 @@
 
 👨🏾‍🎓 A graduate from The School of Code's full-stack web development course
 
-👀 Check out my pinned projects to see what I have been working on below 👇🏽 👇🏽
+📆 I am currently working on a fantasy football app in React to display fixtures, fantasy teams as well as manager and player data
 
+👀 Check out my pinned projects to see what else I have been working on below 👇🏽 👇🏽
 <br>
 
 ## Links
