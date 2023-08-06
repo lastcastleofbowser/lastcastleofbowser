@@ -23,7 +23,6 @@ Follow my journey here 👉👉
   <td></td>
   <td>Tech Stack</td>
   <td>Overview</td>
- 
  </thead>
  <tbody>
   <tr> 
@@ -54,14 +53,15 @@ Follow my journey here 👉👉
   <td>React, TypeScript, CSS</td>
   <td>An app to show you your fantasy football team, stats, leagues and fixtures</td>
   </tr>
+  <tr>
+   <td>Portfolio</td>
+  <td><a href="https://github.com/lastcastleofbowser/portfolio-new">Github</a></td>
+  <td><a href="https://christianwillcox.netlify.app/">Website</a></td>
+  <td>HTML, CSS</td>
+  <td>My personal portfolio site showcasing my work</td>
+  </tr>
  </tbody>
 </table>
-
-View my website here  👉👉
-[🖥️](https://christianwillcox.netlify.app/)
-
-
-
 
 <br>
 
