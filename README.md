@@ -7,22 +7,65 @@
 📆 I am currently working on a fantasy football app in React to display fixtures, fantasy teams as well as manager and player data
 
 👀 Check out my pinned projects to see what else I have been working on below 👇🏽 👇🏽
-<br>
-
-## Links
-
-View my website here  👉👉
-[🖥️](https://christianwillcox.netlify.app/)
 
 Follow my journey here 👉👉
  <a href="https://www.linkedin.com/in/christianwillcox/">
   <img align="center" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 </a>
+<br>
+
+## 💼 Projects
+
+<table>
+ <thead>
+  <td>Project</td>
+  <td></td>
+  <td></td>
+  <td>Tech Stack</td>
+  <td>Overview</td>
+ 
+ </thead>
+ <tbody>
+  <tr> 
+  <td>Kindr</td>
+  <td><a href="https://github.com/lastcastleofbowser/kindr">Github</a></td>
+  <td><a href="https://kindr.netlify.app/">Website</a></td>
+  <td>React, JavaScript, CSS, Supabase, Jest, Playwright</td>
+  <td>An app to connect volunteers in the community</td>
+  </tr>
+  <tr> 
+  <td>Weather App</td>
+  <td><a href="https://github.com/lastcastleofbowser/React-Weather-App">Github</a></td>
+  <td></td>
+  <td>React, TypeScript, CSS</td>
+  <td>An app to show you the local weather and forecast. Data from OpenWeather</td>
+  </tr>
+  <tr> 
+  <td>CodeLingo</td>
+  <td><a href="https://github.com/lastcastleofbowser/bc14_w7_project-frontend-h-o-n-k">Github</a></td>
+  <td></td>
+  <td>React, JavaScript, CSS</td>
+  <td>An app to help you learn coding</td>
+  </tr>
+  <tr>
+   <td>FPL Playground (WIP)</td>
+  <td><a href="https://github.com/lastcastleofbowser/fpl-playground-new">Github</a></td>
+  <td></td>
+  <td>React, TypeScript, CSS</td>
+  <td>An app to show you your fantasy football team, stats, leagues and fixtures</td>
+  </tr>
+ </tbody>
+</table>
+
+View my website here  👉👉
+[🖥️](https://christianwillcox.netlify.app/)
+
+
 
 
 <br>
 
-## Languages & Software
+## 🧰 Languages & Software
 <br>
 
 <div align = "center">
@@ -44,11 +87,10 @@ Follow my journey here 👉👉
 
 </div>
 
-## My Stats
+## 📚 My Stats
 
 <table>
  <tr>
-<td align=top><img src = "https://github-readme-stats.vercel.app/api/?username=lastcastleofbowser&count_private=true&theme=tokyonight&showicons=true"></td>
 <td align=top><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lastcastleofbowser&langs_count=5&theme=tokyonight"></td>
  <td align=top><img src ="https://www.codewars.com/users/lastcastleofbowser/badges/large"></td>
 </tr>
