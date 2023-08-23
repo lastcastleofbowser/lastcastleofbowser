@@ -35,7 +35,7 @@ Follow my journey here 👉👉
   <tr> 
   <td>Weather App</td>
   <td><a href="https://github.com/lastcastleofbowser/React-Weather-App">Github</a></td>
-  <td></td>
+  <td><a href="https://lastcastleofbowser.github.io/React-Weather-App/">Website</a></td>
   <td>React, TypeScript, CSS</td>
   <td>An app to show you the local weather and forecast. Data from OpenWeather</td>
   </tr>
