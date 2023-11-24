@@ -44,7 +44,7 @@ Follow my journey here 👉👉
   <tr> 
   <td>CodeLingo</td>
   <td><a href="https://github.com/lastcastleofbowser/bc14_w7_project-frontend-h-o-n-k">Github</a></td>
-  <td></td>
+  <td><a href="https://code-lingo.netlify.app/">Website</a></td>
   <td>React, JavaScript, CSS</td>
   <td>An app to help you learn coding</td>
   </tr>
