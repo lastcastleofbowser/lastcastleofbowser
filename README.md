@@ -70,8 +70,8 @@ Follow my journey here 👉👉
 ## 🧰 Languages & Software
 <br>
 
-
 <div align = "center">
+ 
 💼 Languages & Frameworks
 
  
@@ -93,10 +93,11 @@ Follow my journey here 👉👉
       <img src = "https://user-images.githubusercontent.com/123087687/230131156-f47258e5-a301-4b75-8741-228628028493.png" width="50" height="50"> <!--CSS-->
      </td>
    <td>
-    IMG for C
+    <img src="https://github.com/lastcastleofbowser/lastcastleofbowser/assets/123087687/890cf091-3f40-4d26-b68c-d40518defde3" width="50" height="50"><!--C-->
+
    </td>
    <td>
-    IMG for Python
+    <img src="https://github.com/lastcastleofbowser/lastcastleofbowser/assets/123087687/7d5f14e0-d33d-4768-9c11-920d2f79327a" width="50" height="50"><!--Python-->
    </td>     
    <td>
     <img src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50"> <!--Git-->
@@ -125,7 +126,10 @@ Follow my journey here 👉👉
       <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="50" height="50"> <!--SQL-->
      </td>
    <td>
-    IMG for Flask
+    <img src="https://github.com/lastcastleofbowser/lastcastleofbowser/assets/123087687/23260099-eb95-4995-bf25-ecd1dc6327e2" width="50" height="50"><!--Flask-->
+   </td>  
+   <td>
+    <img src="https://github.com/lastcastleofbowser/lastcastleofbowser/assets/123087687/17951c19-4829-48c3-ae74-dede4aee72cd" width="50" height="50"><!--Jinja-->
    </td>  
    <td>
     <img src = "https://user-images.githubusercontent.com/123087687/230386768-3c992ef3-2b49-4e58-99e1-daa9dad076d3.png" width="50" height="50"> <!--Node JS -->
@@ -139,6 +143,7 @@ Follow my journey here 👉👉
    <tr>
    <td> SQL </td>
    <td> Flask </td>
+   <td> Jinja </td>
    <td> Nodejs </td>
    <td> Expressjs </td>
    </tr>
