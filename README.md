@@ -6,7 +6,7 @@
 
 📆 I am currently working on a fantasy football app in React to display fixtures, fantasy teams as well as manager and player data
 
-📚 I am studying CS50's Introduction to Computer Science. Now on WEEK 3!
+📚 I am studying CS50's Introduction to Computer Science. Now on WEEK 9/10!
 
 👀 Check out my pinned projects to see what else I have been working on below 👇🏽 👇🏽
 
