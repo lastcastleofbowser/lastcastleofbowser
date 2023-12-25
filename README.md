@@ -6,7 +6,7 @@
 
 📆 I am currently working on a fantasy football app in React to display fixtures, fantasy teams as well as manager and player data
 
-📚 I am studying Harvard's CS50's Introduction to Computer Science. NOW ON MY FINAL PROJECT - A PASSWORD MANAGER!
+📚 I am studying Harvard's CS50's Introduction to Computer Science. NOW ON MY FINAL PROJECT - a password manager/generator using Python & Flask!
 
 👀 Check out my pinned projects to see what else I have been working on below 👇🏽 👇🏽
 
