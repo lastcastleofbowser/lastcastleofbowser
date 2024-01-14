@@ -27,40 +27,47 @@ Follow my journey here 👉👉
   <td>Overview</td>
  </thead>
  <tbody>
-  <tr> 
-  <td>Kindr</td>
-  <td><a href="https://github.com/lastcastleofbowser/kindr">Github</a></td>
-  <td><a href="https://kindr.netlify.app/">Website</a></td>
-  <td>React, JavaScript, CSS, Supabase, Jest, Playwright</td>
-  <td>An app to connect volunteers in the community</td>
+  <tr>
+     <td>CastlePass ⛫</td>
+     <td>Github (soon)</td>
+     <td>Website (soon)</td>
+     <td>Python, JavaScript, Flask, Jinja, SQLite, Bootstrap, Werkzeug Security</td>
+     <td>Password manager and generator: <i>A fortress for your passwords</i></td>
+  </tr>
+  <tr>
+    <td>Kindr</td>
+    <td><a href="https://github.com/lastcastleofbowser/kindr">Github</a></td>
+    <td><a href="https://kindr.netlify.app/">Website</a></td>
+    <td>React, JavaScript, CSS, Supabase, Jest, Playwright</td>
+    <td>An app to connect volunteers in the community</td>
   </tr>
   <tr> 
   <td>Weather App</td>
-  <td><a href="https://github.com/lastcastleofbowser/React-Weather-App">Github</a></td>
-  <td><a href="https://lastcastleofbowser.github.io/React-Weather-App/">Website</a></td>
-  <td>React, TypeScript, CSS</td>
-  <td>An app to show you the local weather and forecast. Data from OpenWeather</td>
+    <td><a href="https://github.com/lastcastleofbowser/React-Weather-App">Github</a></td>
+    <td><a href="https://lastcastleofbowser.github.io/React-Weather-App/">Website</a></td>
+    <td>React, TypeScript, CSS</td>
+    <td>An app to show you the local weather and forecast. Data from OpenWeather</td>
   </tr>
   <tr> 
   <td>CodeLingo</td>
-  <td><a href="https://github.com/lastcastleofbowser/bc14_w7_project-frontend-h-o-n-k">Github</a></td>
-  <td><a href="https://code-lingo.netlify.app/">Website</a></td>
-  <td>React, JavaScript, CSS</td>
-  <td>An app to help you learn coding</td>
+    <td><a href="https://github.com/lastcastleofbowser/bc14_w7_project-frontend-h-o-n-k">Github</a></td>
+    <td><a href="https://code-lingo.netlify.app/">Website</a></td>
+    <td>React, JavaScript, CSS</td>
+    <td>An app to help you learn coding</td>
   </tr>
   <tr>
    <td>FPL Playground (WIP)</td>
-  <td><a href="https://github.com/lastcastleofbowser/fpl-playground-new">Github</a></td>
-  <td></td>
-  <td>React, TypeScript, CSS</td>
-  <td>An app to show you your fantasy football team, stats, leagues and fixtures</td>
+    <td><a href="https://github.com/lastcastleofbowser/fpl-playground-new">Github</a></td>
+    <td></td>
+    <td>React, TypeScript, CSS</td>
+    <td>An app to show you your fantasy football team, stats, leagues and fixtures</td>
   </tr>
   <tr>
    <td>Portfolio</td>
-  <td><a href="https://github.com/lastcastleofbowser/portfolio-new">Github</a></td>
-  <td><a href="https://christianwillcox.netlify.app/">Website</a></td>
-  <td>HTML, CSS</td>
-  <td>My personal portfolio site showcasing my work</td>
+    <td><a href="https://github.com/lastcastleofbowser/portfolio-new">Github</a></td>
+    <td><a href="https://christianwillcox.netlify.app/">Website</a></td>
+    <td>HTML, CSS</td>
+    <td>My personal portfolio site showcasing my work</td>
   </tr>
  </tbody>
 </table>
