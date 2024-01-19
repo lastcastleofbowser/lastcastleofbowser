@@ -6,11 +6,13 @@
 
 📆 I am currently working on a fantasy football app in React to display fixtures, fantasy teams as well as manager and player data
 
-📚 I am studying Harvard's CS50's Introduction to Computer Science. NOW ON MY FINAL PROJECT - a password manager/generator using Python & Flask!
+📚 I completed Harvard's CS50's Introduction to Computer Science. My final project was Castlepass: a password manager/generator. I used a combination of Python, Flask, JavaScript, SQL and Bootstrap!
 
 👀 Check out my pinned projects to see what else I have been working on below 👇🏽 👇🏽
 
 Follow my journey here 👉👉
+<a href="https://github.com/lastcastleofbowser/portfolio-new"> Portfolio</a>
+or come say hello on
  <a href="https://www.linkedin.com/in/christianwillcox/">
   LinkedIn
 </a>
